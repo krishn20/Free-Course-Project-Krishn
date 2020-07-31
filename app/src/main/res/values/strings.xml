@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreeCourseProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_myCourses">My Courses</string>
+    <string name="title_myAccount">My Account</string>
+    <string name="title_createdByMe">Created By Me</string>
+    <string name="title_courseDetails">Course Details</string>
+    <string name="todo">TODO</string>
+</resources>
